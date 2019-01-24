@@ -1,1 +1,2 @@
 
+class Affect(object): pass
